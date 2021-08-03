@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Widget.BookStoreCleanArchitecture.Toolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@color/white</item>
+        <item name="android:title">@null</item>
+    </style>
+
+    <style name="Widget.BookStoreCleanArchitecture.Toolbar.WithArrow" parent="Widget.BookStoreCleanArchitecture.Toolbar">
+        <item name="navigationIcon">@drawable/ic_back_arrow</item>
+    </style>
+
+</resources>

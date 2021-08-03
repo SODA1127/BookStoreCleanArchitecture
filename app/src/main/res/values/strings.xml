@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookStore App</string>
+
+    <string name="new_tab">New</string>
+    <string name="bookmark_tab">Bookmark</string>
+    <string name="history_tab">History</string>
+    <string name="find_books_text">Let\'s discover books!</string>
+    <string name="write_hint">Please write your memo</string>
+    <string name="search_by_keyword">search by keyword</string>
+    <string name="search">search</string>
+    <string name="empty_search_history">검색 이력이 없습니다.</string>
+    <string name="empty_search_result">검색 결과가 없습니다.</string>
+    <string name="error_occurred">Oops, Error Occurred : %s</string>
+    <string name="retry">retry</string>
+
+</resources>
